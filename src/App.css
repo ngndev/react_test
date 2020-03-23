@@ -1,3 +1,15 @@
+
+.pageContainer {
+  width: 100%;
+  text-align:center;
+  padding-top:40px;
+}
+.featureContainer {
+  width: 400px;
+  display:inline-block;
+  text-align:left;
+}
+
 .App {
   text-align: center;
 }
